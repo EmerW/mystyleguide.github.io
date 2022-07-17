@@ -1,0 +1,123 @@
+html {
+    background-color: lemonchiffon;
+}
+
+.navigation li {
+    display:inline-block;
+}
+
+h1 .banner {
+    font-weight:bold;
+}
+
+body {
+    font-family: 'Nunito Sans', sans-serif;
+    margin: 0 10%;
+}
+
+div {
+    display: block;
+}
+
+.container {
+    border: 2px solid gray;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.color-panel {
+    display:inline-block;
+    text-align:center;
+    width: 32%;
+    margin: 20px auto;
+    min-height: 100px;
+    font-family: Abril Fatface, sans-serif;
+}
+
+.aqua {
+    background-color: aqua;
+}
+
+.pink {
+    background-color: pink;
+}
+
+.blueviolet {
+    background-color: blueviolet;
+}
+
+.red {
+    background-color: red;
+}
+
+.lime {
+    background-color: lime;
+}
+
+.black {
+    background-color: black;
+    color: white
+}
+
+.font-panel {
+    width: 45%;
+    display: inline-block;
+}
+
+.font-label {
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.abril-fatface {
+    font-family: Abril Fatface;
+}
+
+.edu-vic-wa-nt-beginner {
+    font-family:Edu VIC WA NT Beginner;
+}
+
+.merriweather {
+    font-family: Merriweather;
+}
+
+.oswald {
+    font-family: Oswald;
+}
+
+.roboto {
+    font-family: Roboto;
+}
+
+.splash {
+    font-family:Splash;
+}
+
+.work-sans {
+    font-family: Work sans;
+}
+
+.regular {
+    font-style:normal;
+}
+
+.bold {
+    font-weight:bold;
+}
+
+.italic {
+    font-style:italic;
+}
+
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
